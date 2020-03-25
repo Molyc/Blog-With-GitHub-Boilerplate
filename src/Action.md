@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Action
-slug: my-first-awesome-post
+slug: action
 date: 2019-12-17 20:34
 status: publish
 author: molycao
